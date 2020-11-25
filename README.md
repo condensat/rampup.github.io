@@ -1,1 +1,1 @@
-![Rampup](https://github.com/condensat/rampup.github.io/blob/main/2020-11-25-plaquette.png "Rampup")
+![Rampup](https://raw.githubusercontent.com/condensat/rampup.github.io/main/2020-11-25-plaquette.png "Rampup")
